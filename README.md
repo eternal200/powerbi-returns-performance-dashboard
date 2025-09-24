@@ -54,7 +54,8 @@ How to use it:
 ---
 
 Sneak peek:
-(Add screenshots of your dashboard here to give a quick visual preview.)
+<img width="1278" height="709" alt="Screenshot 2025-09-24 011345" src="https://github.com/user-attachments/assets/9547376c-7493-413a-a0cb-8756dbdaca7a" />
+
 
 
 ---
